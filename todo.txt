@@ -1,0 +1,18 @@
+Programming with JS
+Developing Back-End Apps with Node.js and Express
+Intro to MongoDB
+React Basics
+React Native
+Socket.IO
+Redux 
+HTML and CSS in depth
+Advanced React
+____________________________________________________
+
+Programming in Python
+Developing AI applications with python and flask
+Django Web Framework
+_____________________________________________________
+
+MySQL
+Cloud
